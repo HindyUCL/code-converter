@@ -252,16 +252,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-- 📧 **Email**: codeconverter@example.com
+- 📧 **Email**: hindyros@mit.edu
 - 🐛 **Issues**: [GitHub Issues](https://github.com/HindyUCL/code-converter/issues)
 - 📖 **Documentation**: [GitHub Wiki](https://github.com/HindyUCL/code-converter/wiki)
 
 ## Acknowledgments
 
-- Built with ❤️ for the developer community
+- Built for the developer community
 - Inspired by the need for easy code sharing with AI tools
-- Thanks to all contributors and users
-
----
-
-**Made with ❤️ for developers who love sharing code with AI tools**
