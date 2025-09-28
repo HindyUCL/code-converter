@@ -1,0 +1,3 @@
+# Code Converter requirements
+# This package uses only Python standard library modules
+# No external dependencies required
