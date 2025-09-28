@@ -27,6 +27,15 @@ pip install code-converter
 ### Option 2: Install from GitHub
 
 ```bash
+# For most systems
+pip install git+https://github.com/HindyUCL/code-converter.git
+
+# For macOS with externally-managed environment
+pipx install git+https://github.com/HindyUCL/code-converter.git
+
+# Or use virtual environment
+python3 -m venv venv
+source venv/bin/activate
 pip install git+https://github.com/HindyUCL/code-converter.git
 ```
 
@@ -180,6 +189,24 @@ which code_converter
 
 # If not found, add to PATH (Linux/macOS)
 export PATH="$HOME/.local/bin:$PATH"
+```
+
+### macOS "externally-managed-environment" error
+
+If you get this error on macOS:
+
+```bash
+# Use pipx (recommended for CLI tools)
+brew install pipx
+pipx install git+https://github.com/HindyUCL/code-converter.git
+
+# Or use virtual environment
+python3 -m venv venv
+source venv/bin/activate
+pip install git+https://github.com/HindyUCL/code-converter.git
+
+# Or user installation
+pip install --user git+https://github.com/HindyUCL/code-converter.git
 ```
 
 ### Permission issues
