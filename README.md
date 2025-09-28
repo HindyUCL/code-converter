@@ -27,13 +27,13 @@ pip install code-converter
 ### Option 2: Install from GitHub
 
 ```bash
-pip install git+https://github.com/yourusername/code-converter.git
+pip install git+https://github.com/HindyUCL/code-converter.git
 ```
 
 ### Option 3: Install from source
 
 ```bash
-git clone https://github.com/yourusername/code-converter.git
+git clone https://github.com/HindyUCL/code-converter.git
 cd code-converter
 pip install .
 ```
@@ -226,8 +226,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Support
 
 - 📧 **Email**: codeconverter@example.com
-- 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/code-converter/issues)
-- 📖 **Documentation**: [GitHub Wiki](https://github.com/yourusername/code-converter/wiki)
+- 🐛 **Issues**: [GitHub Issues](https://github.com/HindyUCL/code-converter/issues)
+- 📖 **Documentation**: [GitHub Wiki](https://github.com/HindyUCL/code-converter/wiki)
 
 ## Acknowledgments
 

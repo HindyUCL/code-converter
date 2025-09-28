@@ -30,7 +30,7 @@ setup(
     description="Convert files and folders into machine-readable format for AI tools",
     long_description=read_readme(),
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/code-converter",
+    url="https://github.com/HindyUCL/code-converter",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 5 - Production/Stable",
@@ -56,8 +56,8 @@ setup(
     },
     keywords="code converter, ai tools, chatgpt, machine readable, file conversion",
     project_urls={
-        "Bug Reports": "https://github.com/yourusername/code-converter/issues",
-        "Source": "https://github.com/yourusername/code-converter",
-        "Documentation": "https://github.com/yourusername/code-converter#readme",
+        "Bug Reports": "https://github.com/HindyUCL/code-converter/issues",
+        "Source": "https://github.com/HindyUCL/code-converter",
+        "Documentation": "https://github.com/HindyUCL/code-converter#readme",
     },
 )

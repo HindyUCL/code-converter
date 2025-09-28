@@ -31,10 +31,10 @@ classifiers = [
 dependencies = []
 
 [project.urls]
-Homepage = "https://github.com/yourusername/code-converter"
-Repository = "https://github.com/yourusername/code-converter"
-Issues = "https://github.com/yourusername/code-converter/issues"
-Documentation = "https://github.com/yourusername/code-converter#readme"
+Homepage = "https://github.com/HindyUCL/code-converter"
+Repository = "https://github.com/HindyUCL/code-converter"
+Issues = "https://github.com/HindyUCL/code-converter/issues"
+Documentation = "https://github.com/HindyUCL/code-converter#readme"
 
 [project.scripts]
 code_converter = "code_converter.cli:main"
